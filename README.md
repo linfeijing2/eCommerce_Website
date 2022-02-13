@@ -2,6 +2,9 @@
 
 **Please reder the [eCommerce_erbsite.pdf](https://github.com/linfeijing2/eCommerce_Website/blob/master/e-commerce_website.pdf) for the detailed report of this project .**
 
+**Video Presentation**
+https://youtu.be/IpTSK4iFEew
+
 **Purpose and Usefulness**
 
 The project is capable of providing a platform for face-to-face second-hand goods trading around the campus town by letting users browse the details of commodities and contact sellers privately via email.
@@ -35,5 +38,3 @@ We collect the data from our friends, about 25 friends, 5 goods per person on av
 * The search product can help the users find the products they via entering the product name in the searching bar.
 * The recommendation will implement search inside B+ tree and return the desirable commodities to the users via the preferences the users chose when they registered.
 
-**Video Presentation**
-https://youtu.be/IpTSK4iFEew
